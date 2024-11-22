@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+
+selenium~=4.26.1
+bs4~=0.0.2
+aiofiles~=24.1.0
