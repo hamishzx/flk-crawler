@@ -1,5 +1,6 @@
 # flk-crawler
 [![Pylint](https://github.com/hamishzx/flk-crawler/actions/workflows/pylint.yml/badge.svg)](https://github.com/hamishzx/flk-crawler/actions/workflows/pylint.yml)
+[![PR Welcome Badge](https://badgen.net/https/pr-welcome-badge.vercel.app/api/badge/hamishzx/flk-crawler)](https://github.com/hamishzx/flk-crawler/issues?q=archived:false+is:issue+is:open+sort:updated-desc+label%3A%22help%20wanted%22%2C%22good%20first%20issue%22)
 
 Used to download files from a mysterious flk-npc-xxx-cn site, what it's for is what it's for.
 
