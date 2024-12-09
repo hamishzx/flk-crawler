@@ -4,6 +4,7 @@
 
 Used to download files from a mysterious flk-npc-xxx-cn site, what it's for is what it's for.
 
+用于下载国家法律法规数据数据库（flk-npc-gov-cn）的文件，暂时决定保持更新并完善功能。
 ## Disclaimer
 
 本项目仅用于学术研究或资料参考，使用者在使用本工具时必须遵守中华人民共和国及所在地相关法律法规，不得利用本工具进行任何非法活动，并应当自行承担使用网络爬虫的风险和后果。
